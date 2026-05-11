@@ -1,0 +1,6 @@
+.git
+.env
+*.md
+Dockerfile
+nginx.conf
+node_modules
